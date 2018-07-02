@@ -1,7 +1,7 @@
 'use strict';
 
 let Index = require('../index.js');
-const util = require('util');
+// const util = require('util');
 
 describe('Tests for the Hash Table using a linked list', () => {
 
